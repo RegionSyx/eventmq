@@ -24,6 +24,7 @@ setup(
                       'croniter==0.3.10',
                       'future==0.15.2',
                       'psutil==5.0.0',
+                      'redis-py-cluster==1.3.6',
                       'python-dateutil>=2.1,<3.0.0'],
     extras_require={
           'docs': ['Sphinx==1.5.2', ],
